@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="CRD Offboarding Process">cbde195f2f4431100936fe7cf699b643</catalog_item>
+        <catalog_variable>IO:3158065b2f0831100936fe7cf699b69f</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-20 20:33:02</sys_created_on>
+        <sys_id>8c78c65b2f0831100936fe7cf699b63b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>shipping_address</sys_name>
+        <sys_package display_value="OO Workflows" source="x_1062053_oo_wf">44f3a22e2f0431100936fe7cf699b683</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OO Workflows">44f3a22e2f0431100936fe7cf699b683</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_8c78c65b2f0831100936fe7cf699b63b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-20 20:33:02</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Make Mandatory Variables">d59d7d5f2fc431100936fe7cf699b6b7</ui_policy>
+        <variable>shipping_address</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>
